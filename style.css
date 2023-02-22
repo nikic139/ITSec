@@ -1,0 +1,107 @@
+*{
+    margin: 0xp;
+    padding: 0px;
+}
+
+body {
+    background-image: url(Wave\ Line.svg);
+}
+
+.navbaric{
+    text-align: center;
+}
+
+.aa {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 300px;
+    margin-left: 300px;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.uf {
+    text-decoration: none;
+    color: white;
+}
+
+.haha{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 110px;
+    font-family: sans-serif;
+}
+
+.papa{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.containeric{
+    /* background-color: rgb(136, 134, 134); */
+    width: 100%;
+    height: 550px;
+    margin-top: 231px;
+}
+
+.containeric .haha{
+    font-size: 56px;
+    display: inline-block;
+    margin-top: 51px;
+    margin-left: 101px;
+}
+
+.containeric .papa{
+    font-size: 28px;
+    display: inline-block;
+    margin-top: 21px;
+    margin-left: 51px;
+}
+
+.containeric .imageic{
+    margin-left: 850px;
+    margin-top: -400px;
+}
+
+.flex-wrap{
+    width: 100%;
+    height: 550px;
+    margin-top: 75px;
+}
+
+.ramka{
+    width: 15px;
+    height: 15px;
+}
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5rem;
+    margin-bottom: 4rem;
+    justify-content: center;
+}
+
+.card {
+    width: 100%;
+    max-width: 350px;
+    padding: 1.5rem;
+    padding-top: 6rem;
+    border: var(--border-neutral-100);
+    border-radius: 10px;
+    position: relative;
+    margin-top: 11rem;  
+    margin-bottom: 100px;
+}
+
+.kar{
+    background-color: transparent;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+}
+
